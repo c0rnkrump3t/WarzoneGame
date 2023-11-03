@@ -12,7 +12,6 @@ The map objects: http://www.windowsgames.co.uk/conquest_maps.html/
 The project is divided in three assignments. New assignment will be overriding the previous one.
 
 ## Teammates:
-### Contributors:
 - Ma-Ya McRae
 - Thi Mai Anh Nguyen
 - Mélina Deneuve

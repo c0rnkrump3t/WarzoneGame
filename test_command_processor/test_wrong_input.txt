@@ -1,0 +1,12 @@
+loadmap valid1.map
+4444
+validatemap
+addplayer Player1
+addplayer Superman
+gamestart
+replay
+loadmap valid3.map
+validatemap
+addplayer Rodrigo
+gamestart
+quit

@@ -1,0 +1,12 @@
+loadmap valid1.map
+validatemap
+addplayer Julia
+addplayer Superman
+addplayer Sophia
+issueorder
+replay
+loadmap valid3.map
+validatemap
+addplayer Paul
+gamestart
+quit

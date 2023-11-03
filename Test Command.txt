@@ -1,0 +1,3 @@
+tournament
+console
+tournament -M 3D.map Canada.map Japan.map -P Aggressive Cheater -G 4 -D 50

@@ -1,0 +1,9 @@
+loadmap valid2.map
+validatemap
+gamestart
+replay
+loadmap valid1.map
+validatemap
+addplayer Lucie
+gamestart
+quit

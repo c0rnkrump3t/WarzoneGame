@@ -1,0 +1,8 @@
+[Map]
+author=Mai Anh
+
+[Continents]
+A=0
+
+[Territories]
+1,x,y,A

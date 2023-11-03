@@ -1,0 +1,13 @@
+loadmap valid1.map
+loadmap valid5.map
+validatemap
+addplayer Michael
+addplayer Paul
+addplayer Laura
+gamestart
+replay
+loadmap valid3.map
+validatemap
+addplayer Zoe
+gamestart
+quit
